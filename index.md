@@ -12,8 +12,8 @@ use-site-title: true
 ## Projects
 
 * Lightweight Web Solution
-  * [Escargot](https://github.com/pando-project/escargot)
+  * [Escargot](https://github.com/pando-project/escargot) : Memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.
 
 * Ultralight Web Solution
-  * [JerryScript](http://jerryscript.net)
-  * [IoT.js](http://iotjs.net)
+  * [JerryScript](http://jerryscript.net) : Lightweight JavaScript engine intended to run on a very constrained devices such as microcontrollers.
+  * [IoT.js](http://iotjs.net) : Web-based framework of Internet of Things available for resource constrained devices
